@@ -1,4 +1,4 @@
-//Prog to shift elements of array n times
+k//Prog to shift elements of array n times
 
 #include<stdio.h>
 
